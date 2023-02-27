@@ -80,6 +80,10 @@ button {
         height: 100%;
         margin-bottom: 30px;
    }
+
+   header {
+    padding-top: 60px;
+}
 }
 
 @media (max-width: 768px) {
